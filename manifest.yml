@@ -1,0 +1,8 @@
+---
+applications:
+- name: smartcoe
+  instances: 1
+  health-check-type: none
+  host: smartcoe
+  buildpack: java_buildpack_offline
+  path: target/myartifact-1.0-SNAPSHOT.jar
