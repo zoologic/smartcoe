@@ -13,6 +13,7 @@ public class Category {
 
 	
 	/** The categoryId .*/
+	@Id
 	private String categoryId;
 	
 	/** The descn .*/

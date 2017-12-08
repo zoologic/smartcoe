@@ -22,6 +22,7 @@ public class Supplier {
 	private String city;
 	
 	/** The id .*/
+	@Id
 	private String id;
 	
 	/** The name .*/

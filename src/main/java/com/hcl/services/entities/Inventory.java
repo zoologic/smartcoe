@@ -13,6 +13,7 @@ public class Inventory {
 
 	
 	/** The id .*/
+	@Id
 	private String id;
 	
 	/** The itemId .*/

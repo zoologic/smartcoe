@@ -13,6 +13,7 @@ public class Product {
 
 	
 	/** The categoryId .*/
+	@Id
 	private String categoryId;
 	
 	/** The descn .*/

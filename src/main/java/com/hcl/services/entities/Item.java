@@ -13,6 +13,7 @@ public class Item {
 
 	
 	/** The id .*/
+	@Id
 	private String id;
 	
 	/** The image .*/
